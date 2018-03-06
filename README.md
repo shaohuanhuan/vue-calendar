@@ -1,4 +1,4 @@
-##vue-fullcalendar
+## vue-fullcalendar
 
 ## 使用：
 ## 点击一个日子，新建一个事件，然后就可以拖动这个事件了
